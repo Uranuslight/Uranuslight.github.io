@@ -11,6 +11,9 @@ excerpt: JavaScript 算法，typeof instanceof Object.prototype.toString.apply()
 
 ## 题目
 
+$$x^2=1$$
+$$E=mc^2$$
+
 题目来自 [慕课网 JavaScript 深入浅出 1-6 编程练习](http://imooc.com/code/5760)    
 
 请在 index.html 文件中，编写 arraysSimilar 函数，实现判断传入的两个数组是否相似。具体需求：    
