@@ -1,8 +1,3 @@
----
-...
-mathjax: true
-mathjax_autoNumber: true
----
 
 #test
 
